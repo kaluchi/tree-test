@@ -5,7 +5,7 @@ import java.util.List;
 
 
 /**
- * Одна из реализаций Node
+ * РўРµСЃС‚РѕРІР°СЏ СЂРµР°Р»РёР·Р°С†РёСЏ СѓР·Р»Р° РґРµСЂРµРІР°
  * 
  * @author Kalitko.Evgeny
  *
@@ -38,7 +38,7 @@ public class NodeImpl implements Node {
 	}
 	
 	/**
-	 * @return тестовый набор
+	 * @return С‚РµСЃС‚РѕРІС‹Р№ РЅР°Р±РѕСЂ РґР°РЅРЅС‹С…
 	 */
 	public static Node testCase01() {
 		NodeImpl root = new NodeImpl();
